@@ -5,7 +5,7 @@ This project implements a **secure Azure Hub–Spoke architecture** using **Terr
 ---
 
 ## 🏗️ Architecture Overview
-![alt text](image-1.png)
+![alt text](assets/image-1.png)
 
 - **Hub VNet**
   - Public subnet
